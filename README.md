@@ -11,7 +11,7 @@ This project serves as the final milestone (Task 3) of my **CodSoft Virtual Inte
 After mastering structure and design in my previous tasks, this project was dedicated to **Algorithmic Logic**. The goal was to build a fully functional calculator that doesn't just look good, but *thinks* correctly—handling user inputs, processing arithmetic operations, and returning accurate results in real-time.
 
 ## 🔗 Live Demo
-**[Click here to try the Calculator](https://github.com/tsdebug/codsoft_task-3.git)**
+**[Click here to try the Calculator](https://tsdebug.github.io/codsoft_task-3/)**
 *(If the link doesn't work here, check the "About" section on the right side of this repository!)*
 
 ## ⚡ Features
